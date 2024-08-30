@@ -1,4 +1,4 @@
-<h1 align="center">RU | Haven-Pizza</h1>
+<h1 align="center">RU | Haven-Pizza V1</h1>
 
 Video Review - [link](https://youtu.be/9T1Xt4i4-7c)
 
@@ -10,11 +10,11 @@ Video Review - [link](https://youtu.be/9T1Xt4i4-7c)
 - React;
 - React-Router;
 - GSAP.
-- API
+- API.
 
 <hr/>
 
-<h1 align="center">EN | Haven-Pizza</h1>
+<h1 align="center">EN | Haven-Pizza V1</h1>
 
 <h2 align="center">Technology stack:</h2>
 
@@ -24,4 +24,4 @@ Video Review - [link](https://youtu.be/9T1Xt4i4-7c)
 - React;
 - React-Router;
 - GSAP.
-- API
+- API.
