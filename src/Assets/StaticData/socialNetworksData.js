@@ -3,13 +3,13 @@ import emailLogo from '../../style/img/logo/socialLogo/emailLogo.png';
 export const socialNetworksData = [
     {
         value:'Telegram',
-        name:'@paymentusd',
+        name:'@fomin_dev',
         img:telegramLogo,
-        link:'https://t.me/paymentusd'
+        link:'https://t.me/fomin_dev'
     },
     {
         value:'E-Mail',
-        name:'golpondo@gmail.com',
+        name:'sadge.rondo@gmail.com',
         img:emailLogo,
         link:null
     },

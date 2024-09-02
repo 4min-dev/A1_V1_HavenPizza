@@ -4,7 +4,7 @@ import { ProductsAPIContext } from '../Context/productsAPIContext';
 import { ErrorMessage } from '../Components/UI/ErrorMessage';
 import { Preloader } from '../Components/UI/Preloader';
 import { MainPageProductList } from '../Components/UI/Card-list/MainPageProductList';
-import { NotDefined } from '../Components/UI/NotDefined';
+import { NotFound } from '../Components/UI/NotFound';
 import { MainPageNavbar } from '../Components/UI/MainPageUI/MainPageNavbar';
 import { paginateButtonsMath } from '../Pagination/Utils/paginateButtonsMath';
 import { PaginateButtons } from '../Pagination/UI/PaginateButtons';
@@ -59,7 +59,7 @@ useEffect(() => {
             </div>
           <PaginateButtons totalCardsLength={totalPaginateButtons} currPage={currPage} setCurrPage={setCurrPage}/>
           </>
-          : <NotDefined/>
+          : <NotFound/>
           }
           
         </div>

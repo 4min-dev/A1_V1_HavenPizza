@@ -8,7 +8,10 @@ export const MainProductInteractionWithProduct = ({productQuantity,setProductQua
             <div className="interactionWithProductContent">
             <AddProductQuantity productQuantity={productQuantity} setProductQuantity={setProductQuantity}/>
             <h3>{productQuantity}</h3>
-            <CustomButton type={'button'} id={'selectProductCardButton'} buttonText={'Select'} handleClick={() => setProductToCart(productData)}/>
+            <CustomButton type={'button'} id={'selectProductCardButton'} buttonText={'Select'} handleClick={() => {
+              setProductToCart(productData)
+              setProductQuantity(1)
+            }}/>
             </div>
     </div>
   )

@@ -432,7 +432,7 @@
     #cartCloseButton:hover {
         rotate:-180deg
     }
-    .notDefinedContainer {
+    .notFoundContainer {
         position: absolute;
         margin:100px 0px 0px 0px;
         left:70px;
@@ -481,7 +481,7 @@
     .addToCartSizeAndCrustButton:hover {
         rotate:-90deg
     }
-    .notDefinedContent {
+    .notFoundContent {
         position: relative;
         display: flex;
         flex-direction: column;
@@ -491,7 +491,7 @@
         text-align: center;
         margin:100px 0px 0px 0px;
     }
-    .notDefinedContent>img {
+    .notFoundContent>img {
         width: 250px;
         height: 250px;
     }
