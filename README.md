@@ -1,6 +1,6 @@
 <h1 align="center">RU | Haven-Pizza V1</h1>
 
-Video Review - [link](https://youtu.be/9T1Xt4i4-7c)
+Video Review - [link](https://youtu.be/GNvXMSlLMkE)
 
 <h2 align="center">Технологический стек, используемый в проекте:</h2>
 
